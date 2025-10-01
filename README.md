@@ -88,8 +88,8 @@ All analysis is reproducible in **R**. Below are the generated figures.
 
 ## Who Should Care  
 
-- **Policy makers & regulators** → anticipate energy market impacts of U.S. foreign policy.  
-- **Investors & risk managers** → understand how oil-linked assets respond to volatility spikes.  
-- **Academics & analysts** → explore causal pathways between policy shocks and commodity markets.  
+- **Policy makers & regulators**: Anticipate energy market impacts of U.S. foreign policy.  
+- **Investors & risk managers**: Understand how oil-linked assets respond to volatility spikes.  
+- **Academics & analysts**: Explore causal pathways between policy shocks and commodity markets.  
 
 ---
